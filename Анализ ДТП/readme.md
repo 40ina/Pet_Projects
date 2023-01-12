@@ -1,26 +1,30 @@
-## Maps of road accidents in Yekaterinburg
-	
-<hr>
 
-### Tasks
-
-1. Analysis of historical data:
-- dynamics of the number of accidents
-- number of accidents by the time, season, severity, category, sex of the driver, driving experience, rayons
-2. Visualization on the map
-- number of accidents by rayons - choropleth
-- all accidents in the city - heatmap
-- for 2022 - map of the accidents by severity and by sex of the driver
-
-### Link to HTML (with map visualization)  https://disk.yandex.ru/d/vt6PgrtO-2io_A
-
-### Tools
-`pandas`,  `folium`, `geopandas`, `geopy`, `api OSM`, `shapely`
+# Карта дорожно-транспортных происшествий в Москве
 
 
+## Данные
 
+Сайт некоммерческого проекта «Карта ДТП» (https://dtp-stat.ru/opendata)
 
+## Цель исследования
+
+Проанализировать по статистическим данным транспортную безопасность в городе Москва за период с 2017 по 2022 г.
+
+## Задачи исследования
+
+1. Анализ исторических данных:
+   * внешние условия в момент ДТП;
+   * последствия;
+   * информация о водителе-участнике ДТП;
+   * ситуация в городе.
+2. Визуализация на карте:
+   * визуализировать на карте ДТП в городе с помощью heatmap;
+   * визуализировать на карте ДТП района точками за год.
 
 Ссылка на HTML (с визуализацией карт): https://disk.yandex.ru/d/FxBnn7GQNw6kOA
 
 Презентация: https://disk.yandex.ru/i/-2UTYaA1RJ0W9g
+
+## Библиотеки
+
+Pandas, Seaborn, Folium, Geopandas, Geopy
