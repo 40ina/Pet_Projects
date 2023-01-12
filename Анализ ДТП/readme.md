@@ -1,2 +1,3 @@
-Ссылка на HTML (с визуализацией карт)
-Презентация: 
+Ссылка на HTML (с визуализацией карт): https://disk.yandex.ru/d/FxBnn7GQNw6kOA
+
+Презентация: https://disk.yandex.ru/i/-2UTYaA1RJ0W9g
